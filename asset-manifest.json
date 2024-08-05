@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AngularjsChart/static/css/main.fe13b01c.css",
+    "main.js": "/AngularjsChart/static/js/main.56f6352b.js",
+    "static/js/453.2e339769.chunk.js": "/AngularjsChart/static/js/453.2e339769.chunk.js",
+    "index.html": "/AngularjsChart/index.html",
+    "main.fe13b01c.css.map": "/AngularjsChart/static/css/main.fe13b01c.css.map",
+    "main.56f6352b.js.map": "/AngularjsChart/static/js/main.56f6352b.js.map",
+    "453.2e339769.chunk.js.map": "/AngularjsChart/static/js/453.2e339769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe13b01c.css",
+    "static/js/main.56f6352b.js"
+  ]
+}
